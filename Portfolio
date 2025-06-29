@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sachin Sunar | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Sachin Sunar</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Hello, I'm Sachin 👋</h2>
+      <p>I'm an IT student passionate about Web Development.</p>
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        I'm currently pursuing a degree in Information Technology. I have a strong interest in web technologies and love building clean, responsive websites. I enjoy learning new tools and frameworks to improve my development skills.
+      </p>
+    </div>
+  </section>
+
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <ul class="project-list">
+        <li>
+          <h3>Personal Portfolio</h3>
+          <p>A responsive website showcasing my profile and work.</p>
+        </li>
+        <li>
+          <h3>Weather App</h3>
+          <p>A simple app using HTML, CSS, and JavaScript to show current weather.</p>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p>Email: sachin@example.com</p>
+      <p>LinkedIn: linkedin.com/in/sachinsunar</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Sachin Sunar. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
